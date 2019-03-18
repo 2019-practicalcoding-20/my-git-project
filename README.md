@@ -1,1 +1,1 @@
-lsgdjalskdf
+제대로 된 커밋`
